@@ -1,16 +1,8 @@
-# financeapp
 
-A new Flutter project.
+## Flutter-finance-app-design
 
-## Getting Started
+##### Design ref : https://in.pinterest.com/pin/436497388856636282
+#
+#
+<img src="https://firebasestorage.googleapis.com/v0/b/studentproject-8fe66.appspot.com/o/Screenshot_20181209-205331.jpg?alt=media&token=0c7a875c-e8c6-459c-b8a4-58b8f8dd27d0" width="250" height="410" alt="Brand-first shopping design" align="left">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
